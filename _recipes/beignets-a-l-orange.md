@@ -58,7 +58,7 @@ ingredients:
 {% include recipe-meta.html %}
 
 ## Ingrédients
-- 1 kg de farine 
+- 1 kg de farine
 - 1 verre d’huile
 - 1 verre de jus d’orange
 - 3 c. à soupe de sucre
