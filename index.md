@@ -9,11 +9,10 @@ sort_order: forward
 show_excerpts: false
 ---
 
-Welcome to your recipe website.
+Bienvenue sur le carnet de recettes de la famille.
 
-This template is designed for publishing and organizing recipes with Jekyll and GitHub Pages.
+Ce site rassemble les recettes manuscrites (ou pas) de Mamie, ainsi que celles transmises par les autres membres de la famille.
 
-To get started:
-- replace the example recipe with your own recipes
-- add your images under `assets/images/<slug>/`
-- customize the site title, description, logo, and text in `_config.yml`
+Pour commencer, choisissez une recette ci-dessous.
+
+Pour proposer une recette que vous voulez partager, envoyez-la à Yohan avec le nom de la recette, la description, une photo et en option une vidéo où on peut vous voir !
