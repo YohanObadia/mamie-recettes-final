@@ -1,58 +1,58 @@
 ---
 layout: page
-title: "Mouna"
-meal_type: "Goûter"
+title: Mouna
+meal_type: Goûter
 Chef:
-  person: "Denise"
-  note: ""
+  person: Denise
+  note: ''
 portions: 16
 prep_time_minutes: 45
 cook_time_minutes: 35
 image:
   path: /assets/images/mouna-denise/main.png
-  thumbnail: /assets/images/mouna-denise/main.png
+  thumbnail: /assets/images/mouna-denise/thumb.jpg
   photos:
-    - /assets/images/mouna-denise/main.png
+  - /assets/images/mouna-denise/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Farine"
-    quantity: "1"
-    unit: "kg"
-    note: ""
-  - name: "Œufs"
-    quantity: 4
-    unit: ""
-    note: ""
-  - name: "Levure boulangère"
-    quantity: 2
-    unit: "paquets"
-    note: ""
-  - name: "Sucre"
-    quantity: 200
-    unit: "g"
-    note: ""
-  - name: "Huile"
-    quantity: "2"
-    unit: "verres"
-    note: ""
-  - name: "Jus d’orange"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Sel"
-    quantity: "1"
-    unit: "pincée"
-    note: "pour le levain"
-  - name: "Sucre glace"
-    quantity: ""
-    unit: ""
-    note: "pour saupoudrer"
+- name: Farine
+  quantity: '1'
+  unit: kg
+  note: ''
+- name: Œufs
+  quantity: 4
+  unit: ''
+  note: ''
+- name: Levure boulangère
+  quantity: 2
+  unit: paquets
+  note: ''
+- name: Sucre
+  quantity: 200
+  unit: g
+  note: ''
+- name: Huile
+  quantity: '2'
+  unit: verres
+  note: ''
+- name: Jus d’orange
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Sel
+  quantity: '1'
+  unit: pincée
+  note: pour le levain
+- name: Sucre glace
+  quantity: ''
+  unit: ''
+  note: pour saupoudrer
 ---
 
 {% include recipe-meta.html %}

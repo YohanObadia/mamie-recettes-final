@@ -1,82 +1,82 @@
 ---
 layout: page
-title: "Gâteau à la chantilly"
-meal_type: "Dessert"
+title: Gâteau à la chantilly
+meal_type: Dessert
 Chef:
-  person: "Esther"
-  note: ""
+  person: Esther
+  note: ''
 portions: 10
 prep_time_minutes: 30
 cook_time_minutes: 35
 image:
   path: /assets/images/gateau-a-la-chantilly/main.png
-  thumbnail: /assets/images/gateau-a-la-chantilly/main.png
+  thumbnail: /assets/images/gateau-a-la-chantilly/thumb.jpg
   photos:
-    - /assets/images/gateau-a-la-chantilly/main.png
+  - /assets/images/gateau-a-la-chantilly/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Œufs"
-    quantity: 6
-    unit: ""
-    note: "blancs et jaunes séparés"
-  - name: "Sucre"
-    quantity: "1,5"
-    unit: "verres"
-    note: "pour le biscuit"
-  - name: "Eau"
-    quantity: "1/2"
-    unit: "verre"
-    note: "pour le biscuit"
-  - name: "Farine"
-    quantity: "1,5"
-    unit: "verres"
-    note: "pour le biscuit"
-  - name: "Huile"
-    quantity: "1"
-    unit: "verre"
-    note: "pour le biscuit"
-  - name: "Cacao"
-    quantity: "2"
-    unit: "cuillères à soupe bombées"
-    note: "pour le biscuit"
-  - name: "Levure chimique"
-    quantity: 1
-    unit: "paquet"
-    note: "pour le biscuit"
-  - name: "Vanille (sucre vanillé)"
-    quantity: 1
-    unit: "paquet"
-    note: "pour le biscuit"
-  - name: "Crème végétale à fouetter (parvé)"
-    quantity: ""
-    unit: ""
-    note: "quantité à confirmer"
-  - name: "Pouding vanille"
-    quantity: "1/2"
-    unit: "paquet"
-    note: "pour la chantilly"
-  - name: "Sucre"
-    quantity: "1"
-    unit: "verre"
-    note: "pour la chantilly"
-  - name: "Cacao"
-    quantity: "2"
-    unit: "cuillères à soupe bombées"
-    note: "pour le chocolat"
-  - name: "Sucre"
-    quantity: "1"
-    unit: "verre"
-    note: "pour le chocolat"
-  - name: "Eau"
-    quantity: "2"
-    unit: "cuillères à soupe"
-    note: "pour le chocolat"
-  - name: "Margarine"
-    quantity: "1"
-    unit: "noix"
-    note: "pour le chocolat"
+- name: Œufs
+  quantity: 6
+  unit: ''
+  note: blancs et jaunes séparés
+- name: Sucre
+  quantity: 1,5
+  unit: verres
+  note: pour le biscuit
+- name: Eau
+  quantity: 1/2
+  unit: verre
+  note: pour le biscuit
+- name: Farine
+  quantity: 1,5
+  unit: verres
+  note: pour le biscuit
+- name: Huile
+  quantity: '1'
+  unit: verre
+  note: pour le biscuit
+- name: Cacao
+  quantity: '2'
+  unit: cuillères à soupe bombées
+  note: pour le biscuit
+- name: Levure chimique
+  quantity: 1
+  unit: paquet
+  note: pour le biscuit
+- name: Vanille (sucre vanillé)
+  quantity: 1
+  unit: paquet
+  note: pour le biscuit
+- name: Crème végétale à fouetter (parvé)
+  quantity: ''
+  unit: ''
+  note: quantité à confirmer
+- name: Pouding vanille
+  quantity: 1/2
+  unit: paquet
+  note: pour la chantilly
+- name: Sucre
+  quantity: '1'
+  unit: verre
+  note: pour la chantilly
+- name: Cacao
+  quantity: '2'
+  unit: cuillères à soupe bombées
+  note: pour le chocolat
+- name: Sucre
+  quantity: '1'
+  unit: verre
+  note: pour le chocolat
+- name: Eau
+  quantity: '2'
+  unit: cuillères à soupe
+  note: pour le chocolat
+- name: Margarine
+  quantity: '1'
+  unit: noix
+  note: pour le chocolat
 ---
 
 {% include recipe-meta.html %}

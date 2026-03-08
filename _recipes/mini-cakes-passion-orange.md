@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 20
 image:
   path: /assets/images/mini-cakes-passion-orange/main.png
-  thumbnail: /assets/images/mini-cakes-passion-orange/main.png
+  thumbnail: /assets/images/mini-cakes-passion-orange/thumb.jpg
   photos:
   - /assets/images/mini-cakes-passion-orange/main.png
 video:

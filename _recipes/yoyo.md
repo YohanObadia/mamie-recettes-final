@@ -1,62 +1,62 @@
 ---
 layout: page
-title: "Yoyo"
-meal_type: "Goûter"
+title: Yoyo
+meal_type: Goûter
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 20
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
   path: /assets/images/yoyo/main.png
-  thumbnail: /assets/images/yoyo/main.png
+  thumbnail: /assets/images/yoyo/thumb.jpg
   photos:
-    - /assets/images/yoyo/main.png
+  - /assets/images/yoyo/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Œufs"
-    quantity: 2
-    unit: ""
-    note: ""
-  - name: "Huile"
-    quantity: 4
-    unit: "cuillères à soupe"
-    note: ""
-  - name: "Sucre"
-    quantity: 4
-    unit: "cuillères à soupe"
-    note: ""
-  - name: "Levure chimique"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Fleur d’oranger"
-    quantity: 1
-    unit: "cuillère à café"
-    note: ""
-  - name: "Farine"
-    quantity: ""
-    unit: ""
-    note: "information manquante"
-  - name: "Huile"
-    quantity: ""
-    unit: ""
-    note: "pour friture"
-  - name: "Miel"
-    quantity: ""
-    unit: ""
-    note: "pour enrobage"
-  - name: "Sirop de sucre"
-    quantity: ""
-    unit: ""
-    note: "mélanger miel et sirop 1:1"
+- name: Œufs
+  quantity: 2
+  unit: ''
+  note: ''
+- name: Huile
+  quantity: 4
+  unit: cuillères à soupe
+  note: ''
+- name: Sucre
+  quantity: 4
+  unit: cuillères à soupe
+  note: ''
+- name: Levure chimique
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Fleur d’oranger
+  quantity: 1
+  unit: cuillère à café
+  note: ''
+- name: Farine
+  quantity: ''
+  unit: ''
+  note: information manquante
+- name: Huile
+  quantity: ''
+  unit: ''
+  note: pour friture
+- name: Miel
+  quantity: ''
+  unit: ''
+  note: pour enrobage
+- name: Sirop de sucre
+  quantity: ''
+  unit: ''
+  note: mélanger miel et sirop 1:1
 ---
 
 {% include recipe-meta.html %}

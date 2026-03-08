@@ -1,46 +1,46 @@
 ---
 layout: page
-title: "Gâteau au chocolat"
-meal_type: "Dessert"
+title: Gâteau au chocolat
+meal_type: Dessert
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 10
 prep_time_minutes: 15
 cook_time_minutes: 15
 image:
   path: /assets/images/gateau-au-chocolat-moule-a-cake/main.png
-  thumbnail: /assets/images/gateau-au-chocolat-moule-a-cake/main.png
+  thumbnail: /assets/images/gateau-au-chocolat-moule-a-cake/thumb.jpg
   photos:
-    - /assets/images/gateau-au-chocolat-moule-a-cake/main.png
+  - /assets/images/gateau-au-chocolat-moule-a-cake/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Œufs"
-    quantity: 5
-    unit: ""
-    note: "blancs et jaunes séparés"
-  - name: "Chocolat"
-    quantity: 125
-    unit: "g"
-    note: ""
-  - name: "Beurre ou margarine"
-    quantity: 125
-    unit: "g"
-    note: ""
-  - name: "Sucre"
-    quantity: 100
-    unit: "g"
-    note: ""
-  - name: "Farine"
-    quantity: 3
-    unit: "cuillères à soupe"
-    note: ""
-  - name: "Café liquide"
-    quantity: 2
-    unit: "cuillères à soupe"
-    note: ""
+- name: Œufs
+  quantity: 5
+  unit: ''
+  note: blancs et jaunes séparés
+- name: Chocolat
+  quantity: 125
+  unit: g
+  note: ''
+- name: Beurre ou margarine
+  quantity: 125
+  unit: g
+  note: ''
+- name: Sucre
+  quantity: 100
+  unit: g
+  note: ''
+- name: Farine
+  quantity: 3
+  unit: cuillères à soupe
+  note: ''
+- name: Café liquide
+  quantity: 2
+  unit: cuillères à soupe
+  note: ''
 ---
 
 {% include recipe-meta.html %}

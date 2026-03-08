@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 50
 image:
   path: /assets/images/cake-orange-2-cakes/main.png
-  thumbnail: /assets/images/cake-orange-2-cakes/main.png
+  thumbnail: /assets/images/cake-orange-2-cakes/thumb.jpg
   photos:
   - /assets/images/cake-orange-2-cakes/main.png
 video:

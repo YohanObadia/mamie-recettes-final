@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 22
 image:
   path: /assets/images/moelleux-au-chocolat/main.png
-  thumbnail: /assets/images/moelleux-au-chocolat/main.png
+  thumbnail: /assets/images/moelleux-au-chocolat/thumb.jpg
   photos:
   - /assets/images/moelleux-au-chocolat/main.png
 video:

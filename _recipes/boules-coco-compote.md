@@ -10,7 +10,7 @@ prep_time_minutes: 15
 cook_time_minutes: 12
 image:
   path: /assets/images/boules-coco-compote/main.png
-  thumbnail: /assets/images/boules-coco-compote/main.png
+  thumbnail: /assets/images/boules-coco-compote/thumb.jpg
   photos:
   - /assets/images/boules-coco-compote/main.png
 video:

@@ -10,7 +10,7 @@ prep_time_minutes: 35
 cook_time_minutes: 25
 image:
   path: /assets/images/beignets-au-rhum/main.png
-  thumbnail: /assets/images/beignets-au-rhum/main.png
+  thumbnail: /assets/images/beignets-au-rhum/thumb.jpg
   photos:
   - /assets/images/beignets-au-rhum/main.png
 video:

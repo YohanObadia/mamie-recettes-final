@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 25
 image:
   path: /assets/images/petits-beignets-en-syrop/main.png
-  thumbnail: /assets/images/petits-beignets-en-syrop/main.png
+  thumbnail: /assets/images/petits-beignets-en-syrop/thumb.jpg
   photos:
   - /assets/images/petits-beignets-en-syrop/main.png
 video:

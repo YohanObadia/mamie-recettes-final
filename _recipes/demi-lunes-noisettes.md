@@ -1,38 +1,38 @@
 ---
 layout: page
-title: "Demi-lunes noisettes"
-meal_type: "Goûter"
+title: Demi-lunes noisettes
+meal_type: Goûter
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 40
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
   path: /assets/images/demi-lunes-noisettes/main.png
-  thumbnail: /assets/images/demi-lunes-noisettes/main.png
+  thumbnail: /assets/images/demi-lunes-noisettes/thumb.jpg
   photos:
-    - /assets/images/demi-lunes-noisettes/main.png
+  - /assets/images/demi-lunes-noisettes/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Farine"
-    quantity: 500
-    unit: "g"
-    note: ""
-  - name: "Margarine"
-    quantity: 250
-    unit: "g"
-    note: "ramollie"
-  - name: "Noisettes moulues (sans peau)"
-    quantity: 200
-    unit: "g"
-    note: ""
-  - name: "Sucre glace"
-    quantity: ""
-    unit: ""
-    note: "pour saupoudrer"
+- name: Farine
+  quantity: 500
+  unit: g
+  note: ''
+- name: Margarine
+  quantity: 250
+  unit: g
+  note: ramollie
+- name: Noisettes moulues (sans peau)
+  quantity: 200
+  unit: g
+  note: ''
+- name: Sucre glace
+  quantity: ''
+  unit: ''
+  note: pour saupoudrer
 ---
 
 {% include recipe-meta.html %}

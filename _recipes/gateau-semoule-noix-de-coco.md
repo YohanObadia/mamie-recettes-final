@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 40
 image:
   path: /assets/images/gateau-semoule-noix-de-coco/main.png
-  thumbnail: /assets/images/gateau-semoule-noix-de-coco/main.png
+  thumbnail: /assets/images/gateau-semoule-noix-de-coco/thumb.jpg
   photos:
   - /assets/images/gateau-semoule-noix-de-coco/main.png
 video:

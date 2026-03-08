@@ -1,58 +1,58 @@
 ---
 layout: page
-title: "Les Roses"
-meal_type: "Goûter"
+title: Les Roses
+meal_type: Goûter
 Chef:
-  person: "Emilienne"
-  note: ""
+  person: Emilienne
+  note: ''
 portions: 30
 prep_time_minutes: 35
 cook_time_minutes: 15
 image:
   path: /assets/images/les-roses-emilienne/main.png
-  thumbnail: /assets/images/les-roses-emilienne/main.png
+  thumbnail: /assets/images/les-roses-emilienne/thumb.jpg
   photos:
-    - /assets/images/les-roses-emilienne/main.png
+  - /assets/images/les-roses-emilienne/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Farine"
-    quantity: 400
-    unit: "g"
-    note: ""
-  - name: "Jaunes d’œufs"
-    quantity: 4
-    unit: ""
-    note: ""
-  - name: "Levure chimique"
-    quantity: "1/2"
-    unit: "paquet"
-    note: ""
-  - name: "Margarine"
-    quantity: 200
-    unit: "g"
-    note: ""
-  - name: "Eau"
-    quantity: ""
-    unit: ""
-    note: "un peu si besoin"
-  - name: "Blancs d’œufs"
-    quantity: 4
-    unit: ""
-    note: "pour la crème"
-  - name: "Sel"
-    quantity: "1"
-    unit: "pincée"
-    note: "pour la crème"
-  - name: "Sucre"
-    quantity: 120
-    unit: "g"
-    note: "pour la crème"
-  - name: "Pouding vanille (crème dessert)"
-    quantity: "1"
-    unit: "paquet"
-    note: ""
+- name: Farine
+  quantity: 400
+  unit: g
+  note: ''
+- name: Jaunes d’œufs
+  quantity: 4
+  unit: ''
+  note: ''
+- name: Levure chimique
+  quantity: 1/2
+  unit: paquet
+  note: ''
+- name: Margarine
+  quantity: 200
+  unit: g
+  note: ''
+- name: Eau
+  quantity: ''
+  unit: ''
+  note: un peu si besoin
+- name: Blancs d’œufs
+  quantity: 4
+  unit: ''
+  note: pour la crème
+- name: Sel
+  quantity: '1'
+  unit: pincée
+  note: pour la crème
+- name: Sucre
+  quantity: 120
+  unit: g
+  note: pour la crème
+- name: Pouding vanille (crème dessert)
+  quantity: '1'
+  unit: paquet
+  note: ''
 ---
 
 {% include recipe-meta.html %}

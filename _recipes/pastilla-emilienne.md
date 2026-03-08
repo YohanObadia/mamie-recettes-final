@@ -10,7 +10,7 @@ prep_time_minutes: 60
 cook_time_minutes: 70
 image:
   path: /assets/images/pastilla-emilienne/main.png
-  thumbnail: /assets/images/pastilla-emilienne/main.png
+  thumbnail: /assets/images/pastilla-emilienne/thumb.jpg
   photos:
   - /assets/images/pastilla-emilienne/main.png
 video:

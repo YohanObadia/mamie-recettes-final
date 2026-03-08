@@ -1,47 +1,42 @@
 ---
 layout: page
-title: "Petits ronds aux amandes"
-meal_type: "Goûter"
-
+title: Petits ronds aux amandes
+meal_type: Goûter
 Chef:
-  person: "Mamie Alice"
-  note: ""
-
+  person: Mamie Alice
+  note: ''
 portions: 20
-
 prep_time_minutes: 20
 cook_time_minutes: 10
-
 image:
   path: /assets/images/petits-ronds-amandes/main.png
-  thumbnail: /assets/images/petits-ronds-amandes/main.png
-
-photos:
+  thumbnail: /assets/images/petits-ronds-amandes/thumb.jpg
+  photos:
   - /assets/images/petits-ronds-amandes/main.png
-
+photos:
+- /assets/images/petits-ronds-amandes/main.png
 video:
-  type: "youtube"
-  url: ""
-
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Poudre d'amandes"
-    quantity: 2.5
-    unit: "verres"
-  - name: "Sucre"
-    quantity: 2.5
-    unit: "verres"
-    note: "dont 1 cuillère à soupe de sucre glace"
-  - name: "Blancs d'œuf"
-    quantity: 2.5
-    unit: ""
-    note: "Battus en mousse"
-  - name: "Extrait d’amande amère"
-    quantity: 1
-    unit: "cuillère à café"
-  - name: "Amandes entières"
-    quantity: 20
-    unit: ""
-    note: "1 par rond"
+- name: Poudre d'amandes
+  quantity: 2.5
+  unit: verres
+- name: Sucre
+  quantity: 2.5
+  unit: verres
+  note: dont 1 cuillère à soupe de sucre glace
+- name: Blancs d'œuf
+  quantity: 2.5
+  unit: ''
+  note: Battus en mousse
+- name: Extrait d’amande amère
+  quantity: 1
+  unit: cuillère à café
+- name: Amandes entières
+  quantity: 20
+  unit: ''
+  note: 1 par rond
 ---
 
 {% include recipe-meta.html %}

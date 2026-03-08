@@ -10,7 +10,7 @@ prep_time_minutes: 15
 cook_time_minutes: 10
 image:
   path: /assets/images/tuiles/main.png
-  thumbnail: /assets/images/tuiles/main.png
+  thumbnail: /assets/images/tuiles/thumb.jpg
   photos:
   - /assets/images/tuiles/main.png
 video:

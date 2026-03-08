@@ -1,54 +1,54 @@
 ---
 layout: page
-title: "Brownie"
-meal_type: "Dessert"
+title: Brownie
+meal_type: Dessert
 Chef:
-  person: "Esther"
-  note: ""
+  person: Esther
+  note: ''
 portions: 20
 prep_time_minutes: 20
 cook_time_minutes: 25
 image:
   path: /assets/images/brownie-esther/main.png
-  thumbnail: /assets/images/brownie-esther/main.png
+  thumbnail: /assets/images/brownie-esther/thumb.jpg
   photos:
-    - /assets/images/brownie-esther/main.png
+  - /assets/images/brownie-esther/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Sucre"
-    quantity: "2"
-    unit: "verres"
-    note: ""
-  - name: "Œufs"
-    quantity: 9
-    unit: ""
-    note: ""
-  - name: "Farine"
-    quantity: 250
-    unit: "g"
-    note: ""
-  - name: "Margarine"
-    quantity: 250
-    unit: "g"
-    note: ""
-  - name: "Chocolat"
-    quantity: 400
-    unit: "g"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Bicarbonate"
-    quantity: "1/2"
-    unit: "cuillère à café"
-    note: ""
-  - name: "Noix concassées"
-    quantity: 150
-    unit: "g"
-    note: ""
+- name: Sucre
+  quantity: '2'
+  unit: verres
+  note: ''
+- name: Œufs
+  quantity: 9
+  unit: ''
+  note: ''
+- name: Farine
+  quantity: 250
+  unit: g
+  note: ''
+- name: Margarine
+  quantity: 250
+  unit: g
+  note: ''
+- name: Chocolat
+  quantity: 400
+  unit: g
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Bicarbonate
+  quantity: 1/2
+  unit: cuillère à café
+  note: ''
+- name: Noix concassées
+  quantity: 150
+  unit: g
+  note: ''
 ---
 
 {% include recipe-meta.html %}

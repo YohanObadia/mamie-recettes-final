@@ -1,54 +1,54 @@
 ---
 layout: page
-title: "Biscuits"
-meal_type: "Goûter"
+title: Biscuits
+meal_type: Goûter
 Chef:
-  person: "Emilienne"
-  note: ""
+  person: Emilienne
+  note: ''
 portions: 40
 prep_time_minutes: 25
 cook_time_minutes: 12
 image:
   path: /assets/images/biscuits-emilienne/main.png
-  thumbnail: /assets/images/biscuits-emilienne/main.png
+  thumbnail: /assets/images/biscuits-emilienne/thumb.jpg
   photos:
-    - /assets/images/biscuits-emilienne/main.png
+  - /assets/images/biscuits-emilienne/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Margarine"
-    quantity: 200
-    unit: "g"
-    note: ""
-  - name: "Jaunes d’œufs"
-    quantity: 7
-    unit: ""
-    note: ""
-  - name: "Œuf entier"
-    quantity: 1
-    unit: ""
-    note: ""
-  - name: "Sucre"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Levure chimique"
-    quantity: 2
-    unit: "paquets"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 2
-    unit: "paquets"
-    note: ""
-  - name: "Farine"
-    quantity: ""
-    unit: ""
-    note: "autant qu’il faut pour pâte légère (à préciser après test)"
-  - name: "Sucre"
-    quantity: ""
-    unit: ""
-    note: "pour rouler"
+- name: Margarine
+  quantity: 200
+  unit: g
+  note: ''
+- name: Jaunes d’œufs
+  quantity: 7
+  unit: ''
+  note: ''
+- name: Œuf entier
+  quantity: 1
+  unit: ''
+  note: ''
+- name: Sucre
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Levure chimique
+  quantity: 2
+  unit: paquets
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 2
+  unit: paquets
+  note: ''
+- name: Farine
+  quantity: ''
+  unit: ''
+  note: autant qu’il faut pour pâte légère (à préciser après test)
+- name: Sucre
+  quantity: ''
+  unit: ''
+  note: pour rouler
 ---
 
 {% include recipe-meta.html %}

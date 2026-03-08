@@ -1,54 +1,54 @@
 ---
 layout: page
-title: "Tarte aux poires"
-meal_type: "Dessert"
+title: Tarte aux poires
+meal_type: Dessert
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 8
 prep_time_minutes: 30
 cook_time_minutes: 30
 image:
   path: /assets/images/tarte-aux-poires-creme/main.png
-  thumbnail: /assets/images/tarte-aux-poires-creme/main.png
+  thumbnail: /assets/images/tarte-aux-poires-creme/thumb.jpg
   photos:
-    - /assets/images/tarte-aux-poires-creme/main.png
+  - /assets/images/tarte-aux-poires-creme/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Pâte feuilletée"
-    quantity: 1
-    unit: "bloc"
-    note: ""
-  - name: "Poires au sirop"
-    quantity: 2
-    unit: "boîtes (4/4)"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Jaunes d’œufs"
-    quantity: 2
-    unit: ""
-    note: ""
-  - name: "Sucre"
-    quantity: 100
-    unit: "g"
-    note: ""
-  - name: "Farine"
-    quantity: 50
-    unit: "g"
-    note: ""
-  - name: "Lait"
-    quantity: "1/4"
-    unit: "litre"
-    note: ""
-  - name: "Crème fraîche"
-    quantity: 1
-    unit: "petit pot"
-    note: ""
+- name: Pâte feuilletée
+  quantity: 1
+  unit: bloc
+  note: ''
+- name: Poires au sirop
+  quantity: 2
+  unit: boîtes (4/4)
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Jaunes d’œufs
+  quantity: 2
+  unit: ''
+  note: ''
+- name: Sucre
+  quantity: 100
+  unit: g
+  note: ''
+- name: Farine
+  quantity: 50
+  unit: g
+  note: ''
+- name: Lait
+  quantity: 1/4
+  unit: litre
+  note: ''
+- name: Crème fraîche
+  quantity: 1
+  unit: petit pot
+  note: ''
 ---
 
 {% include recipe-meta.html %}

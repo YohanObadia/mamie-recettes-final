@@ -1,58 +1,58 @@
 ---
 layout: page
-title: "Brownie"
-meal_type: "Dessert"
+title: Brownie
+meal_type: Dessert
 Chef:
-  person: "Yvette"
-  note: ""
+  person: Yvette
+  note: ''
 portions: 16
 prep_time_minutes: 15
 cook_time_minutes: 30
 image:
   path: /assets/images/brownie-yvette/main.png
-  thumbnail: /assets/images/brownie-yvette/main.png
+  thumbnail: /assets/images/brownie-yvette/thumb.jpg
   photos:
-    - /assets/images/brownie-yvette/main.png
+  - /assets/images/brownie-yvette/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Chocolat"
-    quantity: 200
-    unit: "g"
-    note: ""
-  - name: "Margarine"
-    quantity: 180
-    unit: "g"
-    note: ""
-  - name: "Sucre"
-    quantity: 200
-    unit: "g"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Sel"
-    quantity: "1"
-    unit: "pincée"
-    note: ""
-  - name: "Œufs"
-    quantity: 3
-    unit: ""
-    note: ""
-  - name: "Farine"
-    quantity: 95
-    unit: "g"
-    note: ""
-  - name: "Noix concassées"
-    quantity: 70
-    unit: "g"
-    note: ""
-  - name: "Papier aluminium"
-    quantity: ""
-    unit: ""
-    note: "pour le plat (optionnel)"
+- name: Chocolat
+  quantity: 200
+  unit: g
+  note: ''
+- name: Margarine
+  quantity: 180
+  unit: g
+  note: ''
+- name: Sucre
+  quantity: 200
+  unit: g
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Sel
+  quantity: '1'
+  unit: pincée
+  note: ''
+- name: Œufs
+  quantity: 3
+  unit: ''
+  note: ''
+- name: Farine
+  quantity: 95
+  unit: g
+  note: ''
+- name: Noix concassées
+  quantity: 70
+  unit: g
+  note: ''
+- name: Papier aluminium
+  quantity: ''
+  unit: ''
+  note: pour le plat (optionnel)
 ---
 
 {% include recipe-meta.html %}

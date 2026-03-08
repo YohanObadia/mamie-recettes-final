@@ -1,54 +1,54 @@
 ---
 layout: page
-title: "Mouna"
-meal_type: "Goûter"
+title: Mouna
+meal_type: Goûter
 Chef:
-  person: "Esther"
-  note: ""
+  person: Esther
+  note: ''
 portions: 10
 prep_time_minutes: 25
 cook_time_minutes: 30
 image:
   path: /assets/images/mouna-esther/main.png
-  thumbnail: /assets/images/mouna-esther/main.png
+  thumbnail: /assets/images/mouna-esther/thumb.jpg
   photos:
-    - /assets/images/mouna-esther/main.png
+  - /assets/images/mouna-esther/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Œufs"
-    quantity: 4
-    unit: ""
-    note: ""
-  - name: "Zeste de citron"
-    quantity: 1
-    unit: ""
-    note: ""
-  - name: "Huile"
-    quantity: "1/2"
-    unit: "verre"
-    note: ""
-  - name: "Sucre"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Levure boulangère"
-    quantity: 1
-    unit: "sachet"
-    note: "(noté « cassé »)"
-  - name: "Margarine"
-    quantity: 30
-    unit: "g"
-    note: "ramollie"
-  - name: "Farine"
-    quantity: ""
-    unit: ""
-    note: "quantité non fiable / à préciser"
-  - name: "Amandes effilées"
-    quantity: ""
-    unit: ""
-    note: "pour saupoudrer"
+- name: Œufs
+  quantity: 4
+  unit: ''
+  note: ''
+- name: Zeste de citron
+  quantity: 1
+  unit: ''
+  note: ''
+- name: Huile
+  quantity: 1/2
+  unit: verre
+  note: ''
+- name: Sucre
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Levure boulangère
+  quantity: 1
+  unit: sachet
+  note: (noté « cassé »)
+- name: Margarine
+  quantity: 30
+  unit: g
+  note: ramollie
+- name: Farine
+  quantity: ''
+  unit: ''
+  note: quantité non fiable / à préciser
+- name: Amandes effilées
+  quantity: ''
+  unit: ''
+  note: pour saupoudrer
 ---
 
 {% include recipe-meta.html %}

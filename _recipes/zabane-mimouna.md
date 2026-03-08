@@ -10,7 +10,7 @@ prep_time_minutes: 15
 cook_time_minutes: 15
 image:
   path: /assets/images/zabane-mimouna/main.png
-  thumbnail: /assets/images/zabane-mimouna/main.png
+  thumbnail: /assets/images/zabane-mimouna/thumb.jpg
   photos:
   - /assets/images/zabane-mimouna/main.png
 video:

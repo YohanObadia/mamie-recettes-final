@@ -10,7 +10,7 @@ prep_time_minutes: 25
 cook_time_minutes: 10
 image:
   path: /assets/images/boules-au-chocolat/main.png
-  thumbnail: /assets/images/boules-au-chocolat/main.png
+  thumbnail: /assets/images/boules-au-chocolat/thumb.jpg
   photos:
   - /assets/images/boules-au-chocolat/main.png
 video:

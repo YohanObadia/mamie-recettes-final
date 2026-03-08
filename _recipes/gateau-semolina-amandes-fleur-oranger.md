@@ -1,78 +1,78 @@
 ---
 layout: page
-title: "Gâteau de semoule aux amandes et fleur d’oranger"
-meal_type: "Dessert"
+title: Gâteau de semoule aux amandes et fleur d’oranger
+meal_type: Dessert
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 12
 prep_time_minutes: 20
 cook_time_minutes: 40
 image:
   path: /assets/images/gateau-semolina-amandes-fleur-oranger/main.png
-  thumbnail: /assets/images/gateau-semolina-amandes-fleur-oranger/main.png
+  thumbnail: /assets/images/gateau-semolina-amandes-fleur-oranger/thumb.jpg
   photos:
-    - /assets/images/gateau-semolina-amandes-fleur-oranger/main.png
+  - /assets/images/gateau-semolina-amandes-fleur-oranger/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Semoule fine"
-    quantity: 300
-    unit: "g"
-    note: ""
-  - name: "Poudre d’amandes"
-    quantity: 200
-    unit: "g"
-    note: ""
-  - name: "Huile"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Eau"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Sucre"
-    quantity: "1,5"
-    unit: "verres"
-    note: ""
-  - name: "Jus d’orange"
-    quantity: "1/2"
-    unit: "verre"
-    note: ""
-  - name: "Fleur d’oranger"
-    quantity: "1/2"
-    unit: "verre"
-    note: ""
-  - name: "Œufs"
-    quantity: 4
-    unit: ""
-    note: ""
-  - name: "Levure chimique"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Zeste d’orange"
-    quantity: 1
-    unit: ""
-    note: ""
-  - name: "Extrait d’amande amère"
-    quantity: ""
-    unit: ""
-    note: "à doser selon goût"
-  - name: "Sucre"
-    quantity: 400
-    unit: "g"
-    note: "pour le sirop"
-  - name: "Jus de citron"
-    quantity: 1
-    unit: ""
-    note: "pour le sirop (eau non prévue ; à confirmer)"
-  - name: "Eau"
-    quantity: ""
-    unit: ""
-    note: "optionnel dans le sirop (à confirmer)"
+- name: Semoule fine
+  quantity: 300
+  unit: g
+  note: ''
+- name: Poudre d’amandes
+  quantity: 200
+  unit: g
+  note: ''
+- name: Huile
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Eau
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Sucre
+  quantity: 1,5
+  unit: verres
+  note: ''
+- name: Jus d’orange
+  quantity: 1/2
+  unit: verre
+  note: ''
+- name: Fleur d’oranger
+  quantity: 1/2
+  unit: verre
+  note: ''
+- name: Œufs
+  quantity: 4
+  unit: ''
+  note: ''
+- name: Levure chimique
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Zeste d’orange
+  quantity: 1
+  unit: ''
+  note: ''
+- name: Extrait d’amande amère
+  quantity: ''
+  unit: ''
+  note: à doser selon goût
+- name: Sucre
+  quantity: 400
+  unit: g
+  note: pour le sirop
+- name: Jus de citron
+  quantity: 1
+  unit: ''
+  note: pour le sirop (eau non prévue ; à confirmer)
+- name: Eau
+  quantity: ''
+  unit: ''
+  note: optionnel dans le sirop (à confirmer)
 ---
 
 {% include recipe-meta.html %}

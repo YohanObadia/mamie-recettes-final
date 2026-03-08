@@ -10,7 +10,7 @@ prep_time_minutes: 15
 cook_time_minutes: 30
 image:
   path: /assets/images/cake-denise/main.png
-  thumbnail: /assets/images/cake-denise/main.png
+  thumbnail: /assets/images/cake-denise/thumb.jpg
   photos:
   - /assets/images/cake-denise/main.png
 video:

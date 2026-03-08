@@ -10,7 +10,7 @@ prep_time_minutes: 25
 cook_time_minutes: 0
 image:
   path: /assets/images/tiramissou/main.png
-  thumbnail: /assets/images/tiramissou/main.png
+  thumbnail: /assets/images/tiramissou/thumb.jpg
   photos:
   - /assets/images/tiramissou/main.png
 video:

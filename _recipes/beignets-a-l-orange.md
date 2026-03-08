@@ -10,7 +10,7 @@ prep_time_minutes: 25
 cook_time_minutes: 25
 image:
   path: /assets/images/beignets-a-l-orange/main.png
-  thumbnail: /assets/images/beignets-a-l-orange/main.png
+  thumbnail: /assets/images/beignets-a-l-orange/thumb.jpg
   photos:
   - /assets/images/beignets-a-l-orange/main.png
 video:

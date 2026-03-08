@@ -10,7 +10,7 @@ prep_time_minutes: 15
 cook_time_minutes: 12
 image:
   path: /assets/images/madeleines/main.png
-  thumbnail: /assets/images/madeleines/main.png
+  thumbnail: /assets/images/madeleines/thumb.jpg
   photos:
   - /assets/images/madeleines/main.png
 video:
