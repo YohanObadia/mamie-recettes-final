@@ -1,54 +1,54 @@
 ---
 layout: page
-title: "Montecao"
-meal_type: "Goûter"
+title: Montecao
+meal_type: Goûter
 Chef:
-  person: "Denise"
-  note: ""
+  person: Denise
+  note: ''
 portions: 30
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
   path: /assets/images/montecao-denise/main.png
-  thumbnail: /assets/images/montecao-denise/main.png
+  thumbnail: /assets/images/montecao-denise/thumb.jpg
   photos:
-    - /assets/images/montecao-denise/main.png
+  - /assets/images/montecao-denise/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Margarine"
-    quantity: 250
-    unit: "g"
-    note: "ramollie"
-  - name: "Œuf"
-    quantity: 1
-    unit: ""
-    note: ""
-  - name: "Sucre"
-    quantity: 150
-    unit: "g"
-    note: ""
-  - name: "Levure chimique"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Poudre d’amandes"
-    quantity: 80
-    unit: "g"
-    note: ""
-  - name: "Farine"
-    quantity: 500
-    unit: "g"
-    note: ""
-  - name: "Sucre glace"
-    quantity: ""
-    unit: ""
-    note: "pour saupoudrer"
-  - name: "Cannelle"
-    quantity: ""
-    unit: ""
-    note: "optionnel"
+- name: Margarine
+  quantity: 250
+  unit: g
+  note: ramollie
+- name: Œuf
+  quantity: 1
+  unit: ''
+  note: ''
+- name: Sucre
+  quantity: 150
+  unit: g
+  note: ''
+- name: Levure chimique
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Poudre d’amandes
+  quantity: 80
+  unit: g
+  note: ''
+- name: Farine
+  quantity: 500
+  unit: g
+  note: ''
+- name: Sucre glace
+  quantity: ''
+  unit: ''
+  note: pour saupoudrer
+- name: Cannelle
+  quantity: ''
+  unit: ''
+  note: optionnel
 ---
 
 {% include recipe-meta.html %}

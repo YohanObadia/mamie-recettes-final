@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 20
 image:
   path: /assets/images/beignets-pate-molle/main.png
-  thumbnail: /assets/images/beignets-pate-molle/main.png
+  thumbnail: /assets/images/beignets-pate-molle/thumb.jpg
   photos:
   - /assets/images/beignets-pate-molle/main.png
 video:

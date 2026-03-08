@@ -10,7 +10,7 @@ prep_time_minutes: 40
 cook_time_minutes: 20
 image:
   path: /assets/images/les-petites-roses/main.png
-  thumbnail: /assets/images/les-petites-roses/main.png
+  thumbnail: /assets/images/les-petites-roses/thumb.jpg
   photos:
   - /assets/images/les-petites-roses/main.png
 video:

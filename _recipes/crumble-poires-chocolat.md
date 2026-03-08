@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 40
 image:
   path: /assets/images/crumble-poires-chocolat/main.png
-  thumbnail: /assets/images/crumble-poires-chocolat/main.png
+  thumbnail: /assets/images/crumble-poires-chocolat/thumb.jpg
   photos:
   - /assets/images/crumble-poires-chocolat/main.png
 video:

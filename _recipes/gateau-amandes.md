@@ -10,7 +10,7 @@ prep_time_minutes: 10
 cook_time_minutes: 22
 image:
   path: /assets/images/gateau-amandes/main.png
-  thumbnail: /assets/images/gateau-amandes/main.png
+  thumbnail: /assets/images/gateau-amandes/thumb.jpg
   photos:
   - /assets/images/gateau-amandes/main.png
 video:

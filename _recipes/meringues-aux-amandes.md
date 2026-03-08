@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 75
 image:
   path: /assets/images/meringues-aux-amandes/main.png
-  thumbnail: /assets/images/meringues-aux-amandes/main.png
+  thumbnail: /assets/images/meringues-aux-amandes/thumb.jpg
   photos:
   - /assets/images/meringues-aux-amandes/main.png
 video:

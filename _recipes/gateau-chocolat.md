@@ -1,50 +1,50 @@
 ---
 layout: page
-title: "Gâteau Jocelyne"
-meal_type: "Dessert"
+title: Gâteau Jocelyne
+meal_type: Dessert
 Chef:
-  person: "Jocelyne"
-  note: ""
+  person: Jocelyne
+  note: ''
 portions: 12
 prep_time_minutes: 15
 cook_time_minutes: 40
 image:
   path: /assets/images/gateau-chocolat/main.png
-  thumbnail: /assets/images/gateau-chocolat/main.png
+  thumbnail: /assets/images/gateau-chocolat/thumb.jpg
   photos:
-    - /assets/images/gateau-chocolat/main.png
+  - /assets/images/gateau-chocolat/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Huile"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Sucre"
-    quantity: 2
-    unit: "verres"
-    note: ""
-  - name: "Farine"
-    quantity: 3
-    unit: "verres"
-    note: "ou 2 verres farine + 1 verre amande moulue"
-  - name: "Amande moulue"
-    quantity: 1
-    unit: "verre"
-    note: "optionnel (remplace 1 verre de farine)"
-  - name: "Levure chimique"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Œufs"
-    quantity: 5
-    unit: ""
-    note: ""
-  - name: "Chocolat"
-    quantity: 200
-    unit: "g"
-    note: "fondu au bain-marie"
+- name: Huile
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Sucre
+  quantity: 2
+  unit: verres
+  note: ''
+- name: Farine
+  quantity: 3
+  unit: verres
+  note: ou 2 verres farine + 1 verre amande moulue
+- name: Amande moulue
+  quantity: 1
+  unit: verre
+  note: optionnel (remplace 1 verre de farine)
+- name: Levure chimique
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Œufs
+  quantity: 5
+  unit: ''
+  note: ''
+- name: Chocolat
+  quantity: 200
+  unit: g
+  note: fondu au bain-marie
 ---
 
 {% include recipe-meta.html %}

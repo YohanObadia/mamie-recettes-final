@@ -10,7 +10,7 @@ prep_time_minutes: 25
 cook_time_minutes: 18
 image:
   path: /assets/images/biscuits-coco/main.png
-  thumbnail: /assets/images/biscuits-coco/main.png
+  thumbnail: /assets/images/biscuits-coco/thumb.jpg
   photos:
   - /assets/images/biscuits-coco/main.png
 video:

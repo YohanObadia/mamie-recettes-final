@@ -10,7 +10,7 @@ prep_time_minutes: 25
 cook_time_minutes: 25
 image:
   path: /assets/images/boules-au-miel/main.png
-  thumbnail: /assets/images/boules-au-miel/main.png
+  thumbnail: /assets/images/boules-au-miel/thumb.jpg
   photos:
   - /assets/images/boules-au-miel/main.png
 video:

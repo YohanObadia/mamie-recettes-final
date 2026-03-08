@@ -1,54 +1,54 @@
 ---
 layout: page
-title: "Gâteau aux pommes"
-meal_type: "Dessert"
+title: Gâteau aux pommes
+meal_type: Dessert
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 10
 prep_time_minutes: 15
 cook_time_minutes: 40
 image:
   path: /assets/images/gateau-aux-pommes/main.png
-  thumbnail: /assets/images/gateau-aux-pommes/main.png
+  thumbnail: /assets/images/gateau-aux-pommes/thumb.jpg
   photos:
-    - /assets/images/gateau-aux-pommes/main.png
+  - /assets/images/gateau-aux-pommes/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Œufs"
-    quantity: 5
-    unit: ""
-    note: ""
-  - name: "Sucre"
-    quantity: 150
-    unit: "g"
-    note: ""
-  - name: "Farine"
-    quantity: 150
-    unit: "g"
-    note: ""
-  - name: "Huile"
-    quantity: "1/2"
-    unit: "verre"
-    note: ""
-  - name: "Levure chimique"
-    quantity: "1,5"
-    unit: "paquets"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 2
-    unit: "paquets"
-    note: ""
-  - name: "Pommes"
-    quantity: "3 à 4"
-    unit: ""
-    note: ""
-  - name: "Gelée de fruit"
-    quantity: ""
-    unit: ""
-    note: "optionnel"
+- name: Œufs
+  quantity: 5
+  unit: ''
+  note: ''
+- name: Sucre
+  quantity: 150
+  unit: g
+  note: ''
+- name: Farine
+  quantity: 150
+  unit: g
+  note: ''
+- name: Huile
+  quantity: 1/2
+  unit: verre
+  note: ''
+- name: Levure chimique
+  quantity: 1,5
+  unit: paquets
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 2
+  unit: paquets
+  note: ''
+- name: Pommes
+  quantity: 3 à 4
+  unit: ''
+  note: ''
+- name: Gelée de fruit
+  quantity: ''
+  unit: ''
+  note: optionnel
 ---
 
 {% include recipe-meta.html %}

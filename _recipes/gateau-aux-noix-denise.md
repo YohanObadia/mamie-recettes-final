@@ -1,66 +1,66 @@
 ---
 layout: page
-title: "Gâteau aux noix"
-meal_type: "Dessert"
+title: Gâteau aux noix
+meal_type: Dessert
 Chef:
-  person: "Denise"
-  note: ""
+  person: Denise
+  note: ''
 portions: 12
 prep_time_minutes: 25
 cook_time_minutes: 40
 image:
   path: /assets/images/gateau-aux-noix-denise/main.png
-  thumbnail: /assets/images/gateau-aux-noix-denise/main.png
+  thumbnail: /assets/images/gateau-aux-noix-denise/thumb.jpg
   photos:
-    - /assets/images/gateau-aux-noix-denise/main.png
+  - /assets/images/gateau-aux-noix-denise/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Œufs"
-    quantity: 6
-    unit: ""
-    note: "blancs et jaunes séparés"
-  - name: "Margarine"
-    quantity: 300
-    unit: "g"
-    note: "ramollie"
-  - name: "Sucre"
-    quantity: 200
-    unit: "g"
-    note: ""
-  - name: "Liqueur ou rhum"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Noix hachées"
-    quantity: 250
-    unit: "g"
-    note: ""
-  - name: "Biscottes hachées"
-    quantity: 6
-    unit: ""
-    note: ""
-  - name: "Nescafé"
-    quantity: 1
-    unit: "cuillère à café"
-    note: ""
-  - name: "Sel"
-    quantity: "1"
-    unit: "pincée"
-    note: "pour les blancs"
-  - name: "Cerneaux de noix"
-    quantity: ""
-    unit: ""
-    note: "pour le dessus"
-  - name: "Sucre"
-    quantity: ""
-    unit: ""
-    note: "pour caramel (à confirmer)"
-  - name: "Eau"
-    quantity: ""
-    unit: ""
-    note: "optionnel pour caramel (à confirmer)"
+- name: Œufs
+  quantity: 6
+  unit: ''
+  note: blancs et jaunes séparés
+- name: Margarine
+  quantity: 300
+  unit: g
+  note: ramollie
+- name: Sucre
+  quantity: 200
+  unit: g
+  note: ''
+- name: Liqueur ou rhum
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Noix hachées
+  quantity: 250
+  unit: g
+  note: ''
+- name: Biscottes hachées
+  quantity: 6
+  unit: ''
+  note: ''
+- name: Nescafé
+  quantity: 1
+  unit: cuillère à café
+  note: ''
+- name: Sel
+  quantity: '1'
+  unit: pincée
+  note: pour les blancs
+- name: Cerneaux de noix
+  quantity: ''
+  unit: ''
+  note: pour le dessus
+- name: Sucre
+  quantity: ''
+  unit: ''
+  note: pour caramel (à confirmer)
+- name: Eau
+  quantity: ''
+  unit: ''
+  note: optionnel pour caramel (à confirmer)
 ---
 
 {% include recipe-meta.html %}

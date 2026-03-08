@@ -10,7 +10,7 @@ prep_time_minutes: 20
 cook_time_minutes: 0
 image:
   path: /assets/images/nougat-glace/main.png
-  thumbnail: /assets/images/nougat-glace/main.png
+  thumbnail: /assets/images/nougat-glace/thumb.jpg
   photos:
   - /assets/images/nougat-glace/main.png
 video:

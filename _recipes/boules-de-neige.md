@@ -1,44 +1,39 @@
 ---
 layout: page
-title: "Boules de neige aux amandes"
-meal_type: "Goûter"
-
+title: Boules de neige aux amandes
+meal_type: Goûter
 Chef:
-  person: "Mamie Alice"
-  note: ""
-
+  person: Mamie Alice
+  note: ''
 portions: 20
-
 prep_time_minutes: 15
 cook_time_minutes: 10
-
 image:
   path: /assets/images/boules-de-neige/main.png
-  thumbnail: /assets/images/boules-de-neige/main.png
-
-photos:
+  thumbnail: /assets/images/boules-de-neige/thumb.jpg
+  photos:
   - /assets/images/boules-de-neige/main.png
-
+photos:
+- /assets/images/boules-de-neige/main.png
 video:
-  type: "youtube"
-  url: ""
-
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Amandes moulues avec la peau"
-    quantity: 1
-    unit: "verre"
-  - name: "Noix"
-    quantity: 1
-    unit: "verre"
-  - name: "Sucre en poudre"
-    quantity: 1
-    unit: "verre"
-  - name: "Clou de girofle en poudre"
-    quantity: 1
-    unit: "pincée"
-  - name: "Oeuf entier"
-    quantity: 1
-    unit: ""
+- name: Amandes moulues avec la peau
+  quantity: 1
+  unit: verre
+- name: Noix
+  quantity: 1
+  unit: verre
+- name: Sucre en poudre
+  quantity: 1
+  unit: verre
+- name: Clou de girofle en poudre
+  quantity: 1
+  unit: pincée
+- name: Oeuf entier
+  quantity: 1
+  unit: ''
 ---
 
 {% include recipe-meta.html %}

@@ -10,7 +10,7 @@ prep_time_minutes: 60
 cook_time_minutes: 10
 image:
   path: /assets/images/macarons-au-caf/main.png
-  thumbnail: /assets/images/macarons-au-caf/main.png
+  thumbnail: /assets/images/macarons-au-caf/thumb.jpg
   photos:
   - /assets/images/macarons-au-caf/main.png
 video:

@@ -1,66 +1,66 @@
 ---
 layout: page
-title: "Biscuits roulés aux dattes"
-meal_type: "Goûter"
+title: Biscuits roulés aux dattes
+meal_type: Goûter
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 32
 prep_time_minutes: 35
 cook_time_minutes: 15
 image:
   path: /assets/images/biscuits-roules-aux-dattes/main.png
-  thumbnail: /assets/images/biscuits-roules-aux-dattes/main.png
+  thumbnail: /assets/images/biscuits-roules-aux-dattes/thumb.jpg
   photos:
-    - /assets/images/biscuits-roules-aux-dattes/main.png
+  - /assets/images/biscuits-roules-aux-dattes/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Jaunes d’œufs"
-    quantity: 2
-    unit: ""
-    note: ""
-  - name: "Sucre"
-    quantity: "1/2"
-    unit: "verre"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Levure chimique"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Margarine"
-    quantity: 200
-    unit: "g"
-    note: "ramollie"
-  - name: "Jus d’orange"
-    quantity: "1/2"
-    unit: "verre"
-    note: ""
-  - name: "Farine"
-    quantity: "4"
-    unit: "verres"
-    note: ""
-  - name: "Dattes"
-    quantity: ""
-    unit: ""
-    note: "hachées maison"
-  - name: "Noix concassées"
-    quantity: ""
-    unit: ""
-    note: "ou coco, pour saupoudrer"
-  - name: "Noix de coco râpée"
-    quantity: ""
-    unit: ""
-    note: "optionnel"
-  - name: "Sucre glace"
-    quantity: ""
-    unit: ""
-    note: "pour saupoudrer"
+- name: Jaunes d’œufs
+  quantity: 2
+  unit: ''
+  note: ''
+- name: Sucre
+  quantity: 1/2
+  unit: verre
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Levure chimique
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Margarine
+  quantity: 200
+  unit: g
+  note: ramollie
+- name: Jus d’orange
+  quantity: 1/2
+  unit: verre
+  note: ''
+- name: Farine
+  quantity: '4'
+  unit: verres
+  note: ''
+- name: Dattes
+  quantity: ''
+  unit: ''
+  note: hachées maison
+- name: Noix concassées
+  quantity: ''
+  unit: ''
+  note: ou coco, pour saupoudrer
+- name: Noix de coco râpée
+  quantity: ''
+  unit: ''
+  note: optionnel
+- name: Sucre glace
+  quantity: ''
+  unit: ''
+  note: pour saupoudrer
 ---
 
 {% include recipe-meta.html %}

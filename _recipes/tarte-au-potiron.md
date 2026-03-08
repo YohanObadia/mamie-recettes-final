@@ -10,7 +10,7 @@ prep_time_minutes: 25
 cook_time_minutes: 45
 image:
   path: /assets/images/tarte-au-potiron/main.png
-  thumbnail: /assets/images/tarte-au-potiron/main.png
+  thumbnail: /assets/images/tarte-au-potiron/thumb.jpg
   photos:
   - /assets/images/tarte-au-potiron/main.png
 video:

@@ -1,50 +1,50 @@
 ---
 layout: page
-title: "Biscuit hachoir avec entonnoir"
-meal_type: "Goûter"
+title: Biscuit hachoir avec entonnoir
+meal_type: Goûter
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 30
 prep_time_minutes: 20
 cook_time_minutes: 12
 image:
   path: /assets/images/biscuit-hachoir-avec-entonnoir/main.png
-  thumbnail: /assets/images/biscuit-hachoir-avec-entonnoir/main.png
+  thumbnail: /assets/images/biscuit-hachoir-avec-entonnoir/thumb.jpg
   photos:
-    - /assets/images/biscuit-hachoir-avec-entonnoir/main.png
+  - /assets/images/biscuit-hachoir-avec-entonnoir/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Œufs"
-    quantity: 3
-    unit: ""
-    note: ""
-  - name: "Sucre"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Levure chimique"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 1
-    unit: "paquet"
-    note: ""
-  - name: "Huile"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Graines de sésame"
-    quantity: ""
-    unit: ""
-    note: "une bonne poignée"
-  - name: "Farine"
-    quantity: "4"
-    unit: "verres"
-    note: "quantité à confirmer"
+- name: Œufs
+  quantity: 3
+  unit: ''
+  note: ''
+- name: Sucre
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Levure chimique
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 1
+  unit: paquet
+  note: ''
+- name: Huile
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Graines de sésame
+  quantity: ''
+  unit: ''
+  note: une bonne poignée
+- name: Farine
+  quantity: '4'
+  unit: verres
+  note: quantité à confirmer
 ---
 
 {% include recipe-meta.html %}

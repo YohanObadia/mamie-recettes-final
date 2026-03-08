@@ -1,34 +1,34 @@
 ---
 layout: page
-title: "Nougat cacahuètes"
-meal_type: "Goûter"
+title: Nougat cacahuètes
+meal_type: Goûter
 Chef:
-  person: "Mamie Alice"
-  note: ""
+  person: Mamie Alice
+  note: ''
 portions: 30
 prep_time_minutes: 15
 cook_time_minutes: 10
 image:
   path: /assets/images/nougat-cacahuetes/main.png
-  thumbnail: /assets/images/nougat-cacahuetes/main.png
+  thumbnail: /assets/images/nougat-cacahuetes/thumb.jpg
   photos:
-    - /assets/images/nougat-cacahuetes/main.png
+  - /assets/images/nougat-cacahuetes/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Cacahuètes grillées (non salées)"
-    quantity: 300
-    unit: "g"
-    note: "avec peaux, concassées grossièrement"
-  - name: "Sucre"
-    quantity: 250
-    unit: "g"
-    note: ""
-  - name: "Huile"
-    quantity: ""
-    unit: ""
-    note: "pour huiler la planche"
+- name: Cacahuètes grillées (non salées)
+  quantity: 300
+  unit: g
+  note: avec peaux, concassées grossièrement
+- name: Sucre
+  quantity: 250
+  unit: g
+  note: ''
+- name: Huile
+  quantity: ''
+  unit: ''
+  note: pour huiler la planche
 ---
 
 {% include recipe-meta.html %}

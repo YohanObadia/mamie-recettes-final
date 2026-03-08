@@ -10,7 +10,7 @@ prep_time_minutes: 40
 cook_time_minutes: 25
 image:
   path: /assets/images/nems-emilienne/main.png
-  thumbnail: /assets/images/nems-emilienne/main.png
+  thumbnail: /assets/images/nems-emilienne/thumb.jpg
   photos:
   - /assets/images/nems-emilienne/main.png
 video:

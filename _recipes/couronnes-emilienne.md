@@ -1,58 +1,58 @@
 ---
 layout: page
-title: "Couronnes"
-meal_type: "Goûter"
+title: Couronnes
+meal_type: Goûter
 Chef:
-  person: "Emilienne"
-  note: ""
+  person: Emilienne
+  note: ''
 portions: 35
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
   path: /assets/images/couronnes-emilienne/main.png
-  thumbnail: /assets/images/couronnes-emilienne/main.png
+  thumbnail: /assets/images/couronnes-emilienne/thumb.jpg
   photos:
-    - /assets/images/couronnes-emilienne/main.png
+  - /assets/images/couronnes-emilienne/main.png
 video:
-  type: "youtube"
-  url: ""
+  type: youtube
+  url: ''
 ingredients:
-  - name: "Œufs"
-    quantity: 3
-    unit: ""
-    note: ""
-  - name: "Sucre"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Eau"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Huile"
-    quantity: 1
-    unit: "verre"
-    note: ""
-  - name: "Levure chimique"
-    quantity: 3
-    unit: "paquets"
-    note: ""
-  - name: "Vanille (sucre vanillé)"
-    quantity: 3
-    unit: "paquets"
-    note: ""
-  - name: "Graines de sésame"
-    quantity: ""
-    unit: ""
-    note: "dans la pâte"
-  - name: "Anis"
-    quantity: ""
-    unit: ""
-    note: "dans la pâte"
-  - name: "Farine"
-    quantity: ""
-    unit: ""
-    note: "autant qu’il faut pour pâte légère"
+- name: Œufs
+  quantity: 3
+  unit: ''
+  note: ''
+- name: Sucre
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Eau
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Huile
+  quantity: 1
+  unit: verre
+  note: ''
+- name: Levure chimique
+  quantity: 3
+  unit: paquets
+  note: ''
+- name: Vanille (sucre vanillé)
+  quantity: 3
+  unit: paquets
+  note: ''
+- name: Graines de sésame
+  quantity: ''
+  unit: ''
+  note: dans la pâte
+- name: Anis
+  quantity: ''
+  unit: ''
+  note: dans la pâte
+- name: Farine
+  quantity: ''
+  unit: ''
+  note: autant qu’il faut pour pâte légère
 ---
 
 {% include recipe-meta.html %}

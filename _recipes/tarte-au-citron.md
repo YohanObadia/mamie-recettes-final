@@ -10,7 +10,7 @@ prep_time_minutes: 40
 cook_time_minutes: 28
 image:
   path: /assets/images/tarte-au-citron/main.png
-  thumbnail: /assets/images/tarte-au-citron/main.png
+  thumbnail: /assets/images/tarte-au-citron/thumb.jpg
   photos:
   - /assets/images/tarte-au-citron/main.png
 video:
